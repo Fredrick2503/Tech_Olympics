@@ -71,7 +71,7 @@ const Home = () => {
             transition={{ duration: 0.5 }}
           className="absolute inset-0 flex flex-col items-center justify-center text-white text-center">
         <h2 className="text-4xl font-bold">
-            Environmental Ethics and Sustainable AI
+            Environmental Ethics and Sustainable Ai
           </h2>
           <p>
             Connect directly with local farmers and get fresh, organic produce
