@@ -11,7 +11,7 @@ function App() {
     <>
   <BrowserRouter>
   <Routes>
-    <Route path='/' element={<p >hellow</p>}>
+    <Route path='/' element={<p >hello world</p>}>
       
     </Route>
   </Routes>
